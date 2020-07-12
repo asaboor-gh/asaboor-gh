@@ -2,7 +2,7 @@
 
 - 🔭 I’m a computational physicist in PhD at University of Delaware. 
 - 🌱 I’m currently working on a plotly-dash app for DFT output visualization. 
-![picture](pivotpy.png)
+![picture]("./pivotpy.png")
 
 - 💬 Ask me about powershell and python! 
 - 😄 Pronouns: He/Him
