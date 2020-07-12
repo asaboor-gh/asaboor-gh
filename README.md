@@ -5,6 +5,8 @@
 
 > ![picture](pivotpy.png)
 
+> > > ![](https://github.com/massgh/massgh/blob/master/pivotpy.png)
+
 - 💬 Ask me about powershell and python! 
 - 😄 Pronouns: He/Him! 
 
