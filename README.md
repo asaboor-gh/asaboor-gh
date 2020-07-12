@@ -5,7 +5,7 @@
 ![picture](pivotpy.png)
 
 - 💬 Ask me about powershell and python! 
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him! 
 
 ----
 👇🏻 Below is a list of the projects I am working/worked on! 👇🏻 
