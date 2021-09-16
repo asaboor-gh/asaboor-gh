@@ -6,6 +6,7 @@
 > > > ![](https://github.com/massgh/massgh/blob/master/pivotpy.png)
 
 - 💬 Ask me about powershell and python! 
+- Also working on [ipyslides](https://github.com/massgh/ipyslides)
 - 😄 Pronouns: He/Him! 
 
 ----
