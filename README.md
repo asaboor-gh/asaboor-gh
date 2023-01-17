@@ -11,4 +11,4 @@
 - 😄 Pronouns: He/Him! 
 
 ----
-👇🏻 Below is a list of the projects I am working/worked on! 👇🏻 
+Navigate around in my profile to see my repositories. Thanks
