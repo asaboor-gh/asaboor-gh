@@ -7,7 +7,7 @@
 
 - 💬 Ask me about powershell and python! 
 - Also working on [ipyslides](https://github.com/massgh/ipyslides), a presentation tool in Jupyter with interactive rich content.
-![](https://github.com/massgh/massgh/blob/master/slides.png)
+![](https://github.com/massgh/massgh/blob/master/slides.jpg)
 - 😄 Pronouns: He/Him! 
 
 ----
