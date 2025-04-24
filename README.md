@@ -5,7 +5,7 @@ I'm a **Ph.D. candidate in Physics** at the **University of Delaware**, speciali
 📫 **Connect with Me**:
 - GitHub: [github.com/asaboor-gh](https://github.com/asaboor-gh)  
 - Email: **asaboor@udel.edu**  
-- LinkedIn: [linkedin.com/in/abdul-saboor-336a40127](https://www.linkedin.com/in/abdul-saboor-336a40127)
+- LinkedIn: [linkedin.com/in/abdul-saboor-336a40127](https://www.linkedin.com/in/asaboor-in)
   
 🔬 **Research Areas**:
 - Band-gap engineering in III-V semiconductors with Bi incorporation  
