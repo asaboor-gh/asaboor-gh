@@ -1,14 +1,24 @@
-### Hi there 👋
+### 👋 Hi, I'm Abdul Saboor!
 
-- 🔭 I’m a computational physicist in PhD at University of Delaware. 
-- 🌱 I’m working on [pivotpy](https://github.com/massgh/pivotpy) and its successor project [ipyvasp](https://github.com/massgh/ipyvasp) that is used in DFT by VASP pre/post processing. 
+I'm a **Ph.D. candidate in Physics** at the **University of Delaware**, specializing in **Density Functional Theory (DFT)** and semiconductor materials research. My work focuses on **electronic structure tuning, strain effects, and computational modeling** to advance materials for infrared and terahertz applications.
 
-![](https://github.com/massgh/massgh/blob/master/pivotpy.png)
+📫 **Connect with Me**:
+- GitHub: [github.com/asaboor-gh](https://github.com/asaboor-gh)  
+- Email: **asaboor@udel.edu**  
+- LinkedIn: [linkedin.com/in/abdul-saboor-336a40127](https://www.linkedin.com/in/abdul-saboor-336a40127)
+  
+🔬 **Research Areas**:
+- Band-gap engineering in III-V semiconductors with Bi incorporation  
+- Strain effects in transition-metal dichalcogenides (TMDs)  
+- Advanced computational simulations for electronic properties  
 
-- 💬 Ask me about powershell and python! 
-- Also working on [ipyslides](https://github.com/massgh/ipyslides), a presentation tool in Jupyter with interactive rich content.
-![](https://github.com/massgh/massgh/blob/master/slides.jpg)
+💻 **Programming & Development**:
+- Creator of [`ipyvasp`](https://github.com/asaboor-gh/ipyvasp), a Python package for processing VASP calculations
+  ![](https://github.com/massgh/massgh/blob/master/pivotpy.png)
+- Developed [`ipyslides`](https://github.com/asaboor-gh/ipyslides), integrating data analysis and presentations in Jupyter
+  ![](https://github.com/massgh/massgh/blob/master/slides.jpg)
+- Proficient in Python, Bash, MATLAB, Mathematica, and PowerShell  
 
-
-----
-Navigate around in my profile to see my repositories. Thanks
+📄 **Publications**:
+- **Nature Nanotechnology, 2023** – *Engineering metal oxidation using epitaxial strain. Nat. Nanotechnol.* **18**, 1005–1011 (2023)
+- **Physical Review Materials** - *Band-gap reduction and band alignments of dilute bismide III-V alloys.* Submitted (2024) in *Phys. Rev. Mater.*
