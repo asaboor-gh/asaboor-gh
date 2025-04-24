@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Abdul Saboor!
   
-I'm a **Ph.D. candidate in Physics** at the **University of Delaware**, specializing in **Density Functional Theory (DFT)** and semiconductor materials research. My work focuses on **electronic structure tuning, strain effects, and computational modeling** to advance materials for infrared and terahertz applications.
+I'm a **Ph.D. candidate in Physics** at the **University of Delaware**, specializing in **Density Functional Theory (DFT)** and semiconductor materials research. My work focuses on **electronic structure tuning, strain effects, and computational modeling** to advance materials for mid-infrared applications.
 
 📫 **Connect with Me**:
 - GitHub: [github.com/asaboor-gh](https://github.com/asaboor-gh)  
