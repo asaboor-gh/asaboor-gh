@@ -18,7 +18,7 @@
 
 I use density functional theory (DFT) to predict the electronic properties of dilute bismide III–V alloys and strained transition-metal dichalcogenide monolayers — targeting mid-infrared, valleytronic, and topological applications. I also build open-source Python tools for interactive DFT workflows in Jupyter.
 
-**Advisor:** [Prof. Anderson Janotti](https://www.physics.udel.edu/~janotti/) · Condensed Matter Theory Group
+**Advisor:** [Prof. Anderson Janotti](https://mseg.udel.edu/people/janotti/) · Condensed Matter Theory Group
 
 ---
 
