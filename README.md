@@ -50,13 +50,13 @@ I use density functional theory (DFT) to predict the electronic properties of di
       <a href="https://github.com/asaboor-gh/ipyvasp"><b>ipyvasp</b></a><br>
       <sub>Interactive DFT pre- & post-processing in Jupyter — 3D Brillouin zones, band structures, PDOS</sub><br><br>
       <a href="https://asaboor-gh.github.io/ipyvasp/"><img src="https://img.shields.io/badge/Docs-↗-blue?style=flat-square" alt="Docs"></a>
-      <a href="https://doi.org/10.5281/zenodo.7241588"><img src="https://img.shields.io/badge/DOI-Zenodo-blue?style=flat-square" alt="DOI"></a>
+      <a href="https://doi.org/10.5281/zenodo.15482350"><img src="https://img.shields.io/badge/DOI-Zenodo-blue?style=flat-square" alt="DOI"></a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/asaboor-gh/ipyslides"><b>ipyslides</b></a><br>
       <sub>Live presentations in Jupyter — Markdown, LaTeX, Plotly, animations, HTML/PDF export</sub><br><br>
       <a href="https://asaboor-gh.github.io/ipyslides/"><img src="https://img.shields.io/badge/Docs-↗-teal?style=flat-square" alt="Docs"></a>
-      <a href="https://doi.org/10.5281/zenodo.5866838"><img src="https://img.shields.io/badge/DOI-Zenodo-teal?style=flat-square" alt="DOI"></a>
+      <a href="https://doi.org/10.5281/zenodo.15482497"><img src="https://img.shields.io/badge/DOI-Zenodo-teal?style=flat-square" alt="DOI"></a>
       <img src="https://img.shields.io/github/stars/asaboor-gh/ipyslides?style=flat-square&color=gold" alt="Stars">
     </td>
     <td align="center" width="33%">
