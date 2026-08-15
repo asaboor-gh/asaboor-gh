@@ -2,7 +2,7 @@
 
 # Abdul Saboor
 
-**Ph.D. Candidate in Physics** · University of Delaware
+**Ph.D. Physics** · University of Delaware
 
 *First-principles electronic structure of novel semiconductors*
 
@@ -26,6 +26,7 @@ I use density functional theory (DFT) to predict the electronic properties of di
 
 | Year | Journal | Title |
 |:----:|---------|-------|
+|2026   | **arXiv**   | [Effects of uniaxial strain on monolayer transition-metal dichalcogenides revisited](https://arxiv.org/abs/2603.14138) · *I. Evangelista, A. Saboor et. al.* |
 | 2026 | **Phys. Rev. Materials** | [Band-gap reduction and band alignments of dilute bismide III–V alloys](https://doi.org/10.1103/y4bm-k9y4) · *A. Saboor, S. Khalid, A. Janotti* |
 | 2023 | **Nat. Nanotechnol.** | [Engineering metal oxidation using epitaxial strain](https://doi.org/10.1038/s41565-023-01397-0) · *S. Nair, Y. Yuan, A. Saboor, et al.* |
 
